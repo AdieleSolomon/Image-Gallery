@@ -160,6 +160,14 @@
       "description": "Premium curtain design with custom patterns and professional installation services.",
       "category": "Interior Decoration",
       "date": "2024-01-15"
+    },
+    {
+      "id": 21,
+      "title": "Premium Curtain Design",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design21.jpg",
+      "description": "Premium curtain design with custom patterns and professional installation services.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     }
   ]
 }
