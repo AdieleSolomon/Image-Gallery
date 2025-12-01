@@ -2,45 +2,87 @@
   "designs": [
     {
       "id": 1,
-      "title": "window blind & cutton",
+      "title": "window blind & curtain",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design1.jpg",
-      "description": "Modern living room design...",
-      "category": "living-room"
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
     },
     {
       "id": 2,
-      "title": "window blind & cutton",
+      "title": "window blind & curtain",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design2.jpg",
-      "description": "Luxury kitchen renovation...",
-      "category": "kitchen"
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
     },
      {
       "id": 3,
-      "title": "window blind & cuttonen",
+      "title": "window blind & curtain",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design3.jpg",
-      "description": "Luxury kitchen renovation...",
-      "category": "kitchen"
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
     },
      {
       "id": 4,
-      "title": "window blind & cutton",
+      "title": "window blind & curtain",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design4.jpg",
-      "description": "Luxury kitchen renovation...",
-      "category": "kitchen"
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
     },
      {
       "id": 5,
-      "title": "window blind & cutton",
+      "title": "window blind & curtain",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design5.jpg",
-      "description": "Luxury kitchen renovation...",
-      "category": "kitchen"
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
     },
      {
       "id": 6,
-      "title": "window blind & cutton",
+      "title": "window blind & curtain",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design6.jpg",
-      "description": "Luxury kitchen renovation...",
-      "category": "kitchen"
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
+    },
+    {
+      "id": 7,
+      "title": "window blind & curtain",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design7.jpg",
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
+    },
+     {
+      "id": 8,
+      "title": "window blind & curtain",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design8.jpg",
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
+    },
+    {
+      "id": 9,
+      "title": "window blind & curtain",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design9.jpg",
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
+    },
+     {
+      "id": 10,
+      "title": "window blind & curtain",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design10.jpg",
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
+    },
+    {
+      "id": 11,
+      "title": "window blind & curtain",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design11.jpg",
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
+    },
+     {
+      "id": 12,
+      "title": "window blind & curtain",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design12.jpg",
+      "description": "Luxury window blind and curtain",
+      "category": "interion decoration"
     }
   ]
 }
