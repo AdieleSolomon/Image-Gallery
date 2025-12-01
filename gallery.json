@@ -1,88 +1,101 @@
 {
+  "lastUpdated": "2024-01-15",
   "designs": [
     {
       "id": 1,
-      "title": "window blind & curtain",
+      "title": "Window Blind & Curtain Design",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design1.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Luxury window blind and curtain design for modern living spaces. Custom-made with premium fabrics and precise measurements.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
     {
       "id": 2,
-      "title": "window blind & curtain",
+      "title": "Window Treatment Solution",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design2.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Professional window treatment solution combining blinds and curtains for optimal light control and privacy.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
-     {
+    {
       "id": 3,
-      "title": "window blind & curtain",
+      "title": "Modern Curtain Installation",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design3.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Modern curtain installation with custom tracks and premium fabric selection for contemporary interiors.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
-     {
+    {
       "id": 4,
-      "title": "window blind & curtain",
+      "title": "Elegant Window Dressing",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design4.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Elegant window dressing with layered curtains and blinds for sophisticated room aesthetics.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
-     {
+    {
       "id": 5,
-      "title": "window blind & curtain",
+      "title": "Custom Blind Design",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design5.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Custom blind design with motorized controls and blackout features for bedroom applications.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
-     {
+    {
       "id": 6,
-      "title": "window blind & curtain",
+      "title": "Luxury Drapery",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design6.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Luxury drapery installation with custom-made curtains and premium lining for formal spaces.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
     {
       "id": 7,
-      "title": "window blind & curtain",
+      "title": "Window Style Solution",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design7.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Complete window style solution combining functionality with aesthetic appeal.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
-     {
+    {
       "id": 8,
-      "title": "window blind & curtain",
+      "title": "Premium Curtain Design",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design8.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Premium curtain design with custom patterns and professional installation services.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
     {
       "id": 9,
-      "title": "window blind & curtain",
+      "title": "Smart Window Treatment",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design9.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Smart window treatment with automated controls and energy-efficient materials.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
-     {
+    {
       "id": 10,
-      "title": "window blind & curtain",
+      "title": "Designer Window Solution",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design10.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Designer window solution featuring custom-made curtains and professional fitting.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
     {
       "id": 11,
-      "title": "window blind & curtain",
+      "title": "Modern Window Design",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design11.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Modern window design with minimalist curtains and smart light control features.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     },
-     {
+    {
       "id": 12,
-      "title": "window blind & curtain",
+      "title": "Luxury Interior Window",
       "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design12.jpg",
-      "description": "Luxury window blind and curtain",
-      "category": "interion decoration"
+      "description": "Luxury interior window treatment with premium fabrics and custom installation.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     }
   ]
 }
