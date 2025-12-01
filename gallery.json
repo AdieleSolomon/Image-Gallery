@@ -1,0 +1,46 @@
+{
+  "designs": [
+    {
+      "id": 1,
+      "title": "window blind & cutton",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design1.jpg",
+      "description": "Modern living room design...",
+      "category": "living-room"
+    },
+    {
+      "id": 2,
+      "title": "window blind & cutton",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design2.jpg",
+      "description": "Luxury kitchen renovation...",
+      "category": "kitchen"
+    },
+     {
+      "id": 3,
+      "title": "window blind & cuttonen",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design3.jpg",
+      "description": "Luxury kitchen renovation...",
+      "category": "kitchen"
+    },
+     {
+      "id": 4,
+      "title": "window blind & cutton",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design4.jpg",
+      "description": "Luxury kitchen renovation...",
+      "category": "kitchen"
+    },
+     {
+      "id": 5,
+      "title": "window blind & cutton",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design5.jpg",
+      "description": "Luxury kitchen renovation...",
+      "category": "kitchen"
+    },
+     {
+      "id": 6,
+      "title": "window blind & cutton",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design6.jpg",
+      "description": "Luxury kitchen renovation...",
+      "category": "kitchen"
+    }
+  ]
+}
