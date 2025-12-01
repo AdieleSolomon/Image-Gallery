@@ -96,6 +96,70 @@
       "description": "Luxury interior window treatment with premium fabrics and custom installation.",
       "category": "Interior Decoration",
       "date": "2024-01-15"
+    },
+    {
+      "id": 13,
+      "title": "Window Blind & Curtain Design",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design13.jpg",
+      "description": "Luxury window blind and curtain design for modern living spaces. Custom-made with premium fabrics and precise measurements.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 14,
+      "title": "Window Treatment Solution",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design14.jpg",
+      "description": "Professional window treatment solution combining blinds and curtains for optimal light control and privacy.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 15,
+      "title": "Modern Curtain Installation",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design15.jpg",
+      "description": "Modern curtain installation with custom tracks and premium fabric selection for contemporary interiors.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 16,
+      "title": "Elegant Window Dressing",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design16.jpg",
+      "description": "Elegant window dressing with layered curtains and blinds for sophisticated room aesthetics.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 17,
+      "title": "Custom Blind Design",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design17.jpg",
+      "description": "Custom blind design with motorized controls and blackout features for bedroom applications.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 18,
+      "title": "Luxury Drapery",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design18.jpg",
+      "description": "Luxury drapery installation with custom-made curtains and premium lining for formal spaces.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 19,
+      "title": "Window Style Solution",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design19.jpg",
+      "description": "Complete window style solution combining functionality with aesthetic appeal.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 20,
+      "title": "Premium Curtain Design",
+      "image": "https://raw.githubusercontent.com/AdieleSolomon/Image-Gallery/main/images/design20.jpg",
+      "description": "Premium curtain design with custom patterns and professional installation services.",
+      "category": "Interior Decoration",
+      "date": "2024-01-15"
     }
   ]
 }
